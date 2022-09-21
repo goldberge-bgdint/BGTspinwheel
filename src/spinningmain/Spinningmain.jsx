@@ -59,7 +59,7 @@ function Spinningmain() {
     if(sheetstatus!="invalid")
     {
         document.getElementById("upload").value = '';  
-        window.location.href = "/bgdspinner"
+        window.location.href = "/BGTspinwheel/bgdspinner"
 
     }
     else
