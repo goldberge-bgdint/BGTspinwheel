@@ -1,0 +1,94 @@
+body {
+
+}
+
+.resulttext{
+  text-align: center;
+  font-size: 31px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background: none;
+  border: 1px solid black;
+  font-size: 20px;
+  border-radius:5px;
+}
+
+#spin, #reset {
+  position: absolute;
+  bottom: 19vh;
+  right: 35.5vw;
+  font-size: 21x;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  transition-duration: 0.3s;
+  box-shadow: none;
+}
+
+#spin:hover, #reset:hover{
+  color: white !important;
+  background-color: #4195f7;
+  border: #4195f7;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#spin:hover {
+  color: rgb(0, 180, 120);
+  border-color: rgb(0, 180, 120);
+}
+
+#spin:focus, #reset:focus {
+  outline:none;
+}
+#backicon:hover{
+
+  color: #386fa3 !important;
+
+}
+
+/* #reset {
+  position: absolute;
+  bottom: 20vh;
+  right: 35vw;
+} */
+
+#reset:hover {
+  color: red;
+  border-color: red;
+}
+
+
+
+#readout {
+  position: absolute;
+  bottom: 7vh;
+  left: 35vw;
+}
+
+
+#selector {
+  position: absolute;
+  top: 26.5vh;
+  right: 28.5vw;
+  font-size: 40px;
+  z-index: 3;
+}
+
+#result{
+  font-size:50px;
+  color: rgb(0, 180, 120);
+}
+
+input {
+  font-size: 16px;
+  border:none;
+  border-bottom: 1px solid black
+}
