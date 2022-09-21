@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74d0b7e532249b704573e6968166e597",
+    "revision": "c4815aa78f900b5965d0358271844331",
     "url": "/bgdpirzewheel/index.html"
   },
   {
-    "revision": "1c47710dea3d7f7d2c6b",
+    "revision": "a47a7a15e8fa87f012ed",
     "url": "/bgdpirzewheel/static/css/main.b8712e0b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bgdpirzewheel/static/js/2.159602d2.chunk.js"
   },
   {
-    "revision": "1c47710dea3d7f7d2c6b",
-    "url": "/bgdpirzewheel/static/js/main.efac5854.chunk.js"
+    "revision": "a47a7a15e8fa87f012ed",
+    "url": "/bgdpirzewheel/static/js/main.6aeb8a40.chunk.js"
   },
   {
     "revision": "cd3af86dc1d9d486c8e6",

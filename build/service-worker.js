@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bgdpirzewheel/precache-manifest.db6fd54ae7255d773c2572ff5409e101.js"
+  "/bgdpirzewheel/precache-manifest.ba43abc283552a54ba4d78ec18fb947e.js"
 );
 
 self.addEventListener('message', (event) => {

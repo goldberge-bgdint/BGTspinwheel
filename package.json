@@ -1,7 +1,7 @@
 {
   "name": "spinning-prize-wheel-react",
   "version": "1.0.0",
-  "homepage": "https://goldberge-bgdint.github.io/bgdpirzewheel",
+  "homepage": "https://goldberge-bgdint.github.io/BGTspinwheel",
   "description": "",
   "keywords": [],
   "main": "src/spinningmain/main.js",
