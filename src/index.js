@@ -18,7 +18,7 @@ class App extends React.Component {
       <BrowserRouter basename={process.env.PUBLIC_URL} >
       <Routes>
 
-          <Route path="/" element={<Spinningwheel/>} /> 
+          <Route path="/" element={<Spinningmain/>} /> 
           <Route path="/BGTspinwheel/bgdspinner" element={<Spinningwheel/>} /> 
         
       </Routes>

@@ -24,9 +24,6 @@ export class Spinningwheel extends Component {
       
     
       componentDidMount() {
-        // generate canvas wheel on load
-        // console.log("lists:",window.localStorage.getItem('user'))
-        // console.log( 'list:', window.localStorage.getItem('participents'))
         this.renderWheel();
       }
     
@@ -135,9 +132,6 @@ export class Spinningwheel extends Component {
       };
     
       getResult = spin => {
-        // find net rotation and add to offset angle
-        // repeat substraction of inner angle amount from total distance traversed
-        // use count as an index to find value of result from state list
         const { angle, top, offset, list } = this.state;
         let netRotation = ((spin % 360) * Math.PI) / 180; // RADIANS
         let travel = netRotation + offset;
