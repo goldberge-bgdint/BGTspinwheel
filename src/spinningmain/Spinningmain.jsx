@@ -60,7 +60,6 @@ function Spinningmain() {
     {
         document.getElementById("upload").value = '';  
         window.location.href = "/BGTspinwheel/bgdspinner"
-
     }
     else
     {
